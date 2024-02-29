@@ -136,6 +136,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()on
 ```
 # output:
+![dipt7](https://github.com/syedmokthiyar/COLOR_CONVERSIONS_OF-IMAGE/assets/118787294/4a37e301-5e25-4944-ba80-2ab81f3b694c)
 
 
 ### viii) RGB and BGR to YCrCb
@@ -189,7 +190,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 # output:
-![Uploading dipt10.jpeg…]()
+![dipt10](https://github.com/syedmokthiyar/COLOR_CONVERSIONS_OF-IMAGE/assets/118787294/fe1039f7-51e9-4c13-b089-525cee2bd21f)
+
 
 
 ## Result:
